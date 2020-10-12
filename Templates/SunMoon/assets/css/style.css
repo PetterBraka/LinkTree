@@ -10,11 +10,11 @@ body {
 }
 
 #userPhoto {
-    width: 100px;
-    height: 100px;
+    width: 20%;
+    height: 20%;
     display: block;
     margin: 35px auto 20px;
-    border-radius: 50%;
+    border-radius: 25%;
 }
 
 #userName {
@@ -45,7 +45,7 @@ body {
     margin-bottom: 20px;
     padding: 17px;
     text-decoration: none;
-    font-size: 1rem;
+    font-size: 1.4rem;
     font-weight: bold;
     transition: all .25s cubic-bezier(.08, .59, .29, .99);
     border: solid var(--accentColor) 2px;
